@@ -14,7 +14,7 @@ The survey itself asks 8 individuals in the class, including the instructor, abo
 * code collaboration software like Github 
 
 Students in the course were asked to respond to questions regarding their comfortability
-with the latter topics on a scale of 0, representing unfamilarity and 4, representing full fluency. 
+with the latter topics on a scale of 0, representing unfamilarity, and 4, representing full fluency. 
 
 When asked about knowledge surrounding version control systems and familiarty with programming languages, the average response for comfortability
 was a 0.8. What's even more stark is the midpoint for the total responses regarding three questions about exposure to data tools data being at 0. 
