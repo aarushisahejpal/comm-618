@@ -4,7 +4,7 @@ This dichotomy showcases a need for a dataset of official university-wide polici
 
 ### Data-points and variables of interest:
 - Name of University
-- R1 or R2 School
+- [R1 or R2 School](https://carnegieclassifications.acenet.edu/classification_descriptions/basic.php)
 - Location
 - Source/press release indicating policy surrounding Chat GPT
 - Text of official policy
