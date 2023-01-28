@@ -16,7 +16,6 @@ city.clerk@cityofpaloalto.org <br>
 January 28, 2023
 
 
-
 **RE: RECORDS REQUEST**
 
 
