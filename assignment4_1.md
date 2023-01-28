@@ -26,7 +26,7 @@ Dear Records Officer: <br>
 This is a request under the California Public Records Act. Pursuant to that law, I request access to and copies
 of the following records:
 
-1. The total number of use of force incidents reported by the San Jose police department, separated
+1. The total number of use of force incidents reported by the Palo Alto police department, separated
 by year and by type of force used from 2017 - 2022. If possible, please provide the definitions of the different types of force.
 
 2. A list of all officer involved shootings from 2017 - 2022. 
