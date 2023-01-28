@@ -8,10 +8,10 @@ This dichotomy showcases a need for a dataset of official university-wide polici
 - Location
 - Source/press release indicating policy surrounding Chat GPT
 - Text of official policy
-- Violation of academic integrity or not
-  1: must be allowed by all professors
-  2: violation
-  3: up to discretion of professors
+- Violation of academic integrity or not:
+1. must be allowed by all professors
+2. violation
+3. up to discretion of professors
 
 Data collection is driven through brute force google searches or contacting the individual university academic integrity centers, or relevant contacts, for official statements regarding their university-wide policy on Chat GPT or other AI platforms in classroom settings. There is an order system of preference for the methodology for this data collection. If the first option is not available for data collection, then the collection methodology is deferred to the section option and so forth:
 1. Official university documentation / press release that indicates specific wording surrounding whether or not Chat GPT is allowed in the classroom
