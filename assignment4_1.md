@@ -1,17 +1,12 @@
-Aarushi Sahejpal
-
-Data Reporter
-
-American University School of Communication
-
-4400 Massachusetts Avenue NW
-
-Washington, DC 20016
+Aarushi Sahejpal <br> 
+Data Reporter <br>
+American University School of Communication <br>
+4400 Massachusetts Avenue NW <br>
+Washington, DC 20016 <br>
 
 
 
-CPRA Officer
-
+CPRA Officer <br>
 City of Palo Alto
 
 (650)329-2571
