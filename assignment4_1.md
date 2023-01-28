@@ -1,19 +1,31 @@
 Aarushi Sahejpal
+
 Data Reporter
+
 American University School of Communication
+
 4400 Massachusetts Avenue NW
+
 Washington, DC 20016
 
 
+
 CPRA Officer
+
 City of Palo Alto
+
 (650)329-2571
+
 city.clerk@cityofpaloalto.org
+
+
 
 January 28, 2023
 
 
+
 RE: RECORDS REQUEST
+
 
 
 Dear Records Officer:
