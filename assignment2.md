@@ -1,4 +1,4 @@
-## Assignment 2, 1/28
+## Assignment 2, 1/28.   
 ## Questions & (start to) answer
 
 Inspired by Assignment 1.1, I would like to investigate further the phenomen of banning books in schools, classrooms, and educational settings around the country.
