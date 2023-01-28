@@ -5,7 +5,7 @@ For this week's data story critique, I chose [Why Would Prisons Ban My Book? Abs
 by [Keri Blakinger](https://www.themarshallproject.org/staff/keri-blakinger) of [The Marshall Project](https://www.themarshallproject.org/?ref=nav). 
 This piece investigates the phenomenon and widespread banning of certain materials and books in prisons and jails across the United States, 
 more specifically through the lens of Blakinger's own experience being in prison and unable to access certain books in a jail in New York. 
-Citing the book she wrote even being banned in prisons in Florida, her and the Marshall Project staff, using a constructed dataset of banned titles in 18 states acquired from record requests.
+Citing the book she wrote even being banned in prisons in Florida, her and the Marshall Project staff, used a constructed dataset of banned titles in 18 states acquired from record requests to investigate what titles where banned.
 
 This story was interesting because it deep dived into the nuances of constructing a data set from public record requests. While they didn’t link the source for each of the state’s information, the authors made it clear that they had to file individual requests from states to access this information. 
 
