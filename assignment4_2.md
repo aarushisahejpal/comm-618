@@ -4,7 +4,7 @@ This dichotomy showcases a need for a dataset of official university-wide polici
 
 ### Data-points and variables of interest:
 - Name of University
-- [R1 or R2 School](https://carnegieclassifications.acenet.edu/classification_descriptions/basic.php)
+- [R1 or R2 school](https://cehd.gmu.edu/assets/docs/faculty/tenurepromotion/institutions-research-categories.pdf)
 - Location
 - Source/press release indicating policy surrounding Chat GPT
 - Text of official policy
@@ -13,7 +13,7 @@ This dichotomy showcases a need for a dataset of official university-wide polici
   - (2) violation in all academic settings
   - (3) up to discretion of instructors
 
-Data collection is driven through brute force google searches or contacting the individual university academic integrity centers, or relevant contacts, for official statements regarding their university-wide policy on Chat GPT or other AI platforms in classroom settings. There is an order system of preference for the methodology for this data collection. If the first option is not available for data collection, then the collection methodology is deferred to the section option and so forth:
+Data collection is driven through brute force google searches or contacting the individual university academic integrity centers, or relevant contacts, for official statements regarding their university-wide policy on Chat GPT or other AI platforms in classroom settings. There is an order system of preference for the methodology for this data collection. If the first option is not available for data collection, then the collection methodology is deferred to the second option and so forth:
 1. Official university documentation / press release that indicates specific wording surrounding whether or not Chat GPT is allowed in the classroom
 2. A phone-call or email documentation from official university source that indicates specific wording surrounding whether or not Chat GPT is allowed in the classroom 
 3. Newspaper or journal article indicating that professors are allowed to decide their own specific academic policies surrounding Chat GPT for their classrooms, indicating institutions are deferring to professors to make their own decisions
